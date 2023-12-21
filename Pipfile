@@ -10,6 +10,7 @@ geopandas = "*"
 matplotlib = "*"
 pysal = "*"
 splot = "*"
+jupyter = "*"
 
 [dev-packages]
 
