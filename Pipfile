@@ -11,6 +11,8 @@ matplotlib = "*"
 pysal = "*"
 splot = "*"
 jupyter = "*"
+seaborn = "*"
+geoplot = "*"
 
 [dev-packages]
 
